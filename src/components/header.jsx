@@ -171,6 +171,7 @@ function Header({ opened, toggleSidebar }) {
                 </Stack>
               </Group>
             </Popover.Dropdown>
+            
           </Popover>
         </Flex>
       </Flex>
